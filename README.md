@@ -19,6 +19,10 @@ Different techniques and approaches to building an agent, using different librar
 
 ## LLM Recipes
 
+A curated set of production-grade recipes (end-to-end, minimal, copy-pasteable) for building with Large Language Models, plus short research digests that explain why the recipes work and when to use them.
 
+Think of each recipe as a tested pattern you can drop into a real system: data prep → model call → evaluation → deploy. Each includes guardrails, metrics, and trade-offs.
 
 ## Research 
+
+This repo doesn’t just provide code — it also explains the research foundations behind each recipe, in concise, practitioner-friendly digests. Each digest is a 1–2 page note that connects key papers, practical rules of thumb, and failure modes you should be aware of.
